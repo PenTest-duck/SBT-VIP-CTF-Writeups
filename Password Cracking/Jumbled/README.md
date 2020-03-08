@@ -17,6 +17,3 @@ Example: rockme => fR0ckm37@
 ```
 
 Can you crack the hash using rockyou.txt?
-
-
-Hint 1: Rule-based attacks are very useful in applying modifications to passwords from the wordlist before they are matched against the hash.
